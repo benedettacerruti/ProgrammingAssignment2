@@ -2,8 +2,6 @@
 # 1) create a special matrix that can cache its inverse 
 # 2) compute the inverse of the matrix or retrieve it from cache if already calculated 
 
-
-
 # makeCacheMatrix: creates a special matrix which is a list containing a function to 
 # 1. set the value of the matrix 
 # 2. get the value of the matrix 
